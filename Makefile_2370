@@ -1,0 +1,5 @@
+all:
+	gcc -Wall -Wextra -O2 server_2370.c -o server_2370 -lcrypt
+
+clean:
+	rm -f server_2370
