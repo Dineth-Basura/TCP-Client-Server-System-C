@@ -1,13 +1,5 @@
 
 
-IE2102_IT24102370/
-│
-├── client_2370.py          # Python client application
-├── server_2370.c           # C server application
-├── Makefile_2370           # Makefile for compiling server
-├── server_IT24102370.log   # Server log file
-└── IE2102_Assignment_Report_IT24102370.docx
-
 ````
 
 ## Technologies Used
@@ -74,7 +66,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/yourusername/repository-name.git
+git remote add origin https://github.com/Dineth-Basura/TCP-Client-Server-System-C.git
 git push -u origin main
 ````
 
