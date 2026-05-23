@@ -69,8 +69,3 @@ git branch -M main
 git remote add origin https://github.com/Dineth-Basura/TCP-Client-Server-System-C.git
 git push -u origin main
 ````
-
-Replace:
-
-* `yourusername` with your GitHub username
-* `repository-name` with your selected repository name
