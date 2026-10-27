@@ -46,25 +46,6 @@ python client_2370.py
 
 Dineth
 
-## Module
-
-IE2102
-
-````
-
----
-
-# How to Upload to GitHub
-
-1. Create a new repository on GitHub.
-2. Extract your ZIP file.
-3. Open the project folder in terminal.
-4. Run these commands:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
 git branch -M main
 git remote add origin https://github.com/Dineth-Basura/TCP-Client-Server-System-C.git
 git push -u origin main
