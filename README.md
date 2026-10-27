@@ -45,8 +45,3 @@ python client_2370.py
 ## Author
 
 Dineth
-
-git branch -M main
-git remote add origin https://github.com/Dineth-Basura/TCP-Client-Server-System-C.git
-git push -u origin main
-````
